@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "username": "admin",
+    "email": "admin@example.com",
+    "password": "$2b$10$K7L2QA9jlSJF.hHuQT7H4OyL0gYu4HlXVJQQHVe8o9d6TbOxjqxFW",
+    "role": "admin",
+    "createdAt": "2023-01-01T00:00:00.000Z",
+    "updatedAt": "2023-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+    "username": "user",
+    "email": "user@example.com",
+    "password": "$2b$10$rPH41gMPKFYLS4Z1S1gXjeTT9ZWLzCsR3MKYvPY4YpGsQIfzxdYTa",
+    "role": "user",
+    "createdAt": "2023-01-02T00:00:00.000Z",
+    "updatedAt": "2023-01-02T00:00:00.000Z"
+  },
+  {
+    "id": "fabf2ba3-fb93-446e-b6b6-bd401285c574",
+    "username": "Sharanu",
+    "email": "sharanusb12345@gmail.com",
+    "password": "$2b$10$BciQaJFC5.czOCoGBAO9D.0xzul4FIOFpfzpQL3NFwtd9NIOdrl1K",
+    "role": "user",
+    "createdAt": "2025-02-24T18:12:39.285Z",
+    "updatedAt": "2025-02-24T18:12:39.285Z"
+  },
+  {
+    "id": "78e59608-6120-447a-b4c1-3f0880b9f4ff",
+    "username": "sharanusb12345@gmail.com",
+    "email": "sharanusb1234@gmail.com",
+    "password": "$2b$10$s0Il7pqBSz/0ZHGHdsSLTOmR5wAMhUMloqhjKdH47wF80qcHogV32",
+    "role": "user",
+    "createdAt": "2025-02-24T20:22:44.339Z",
+    "updatedAt": "2025-02-24T20:22:44.339Z"
+  }
+]

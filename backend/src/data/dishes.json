@@ -1,0 +1,4453 @@
+[
+  {
+    "name": "Balu shahi",
+    "ingredients": [
+      "Maida flour",
+      "yogurt",
+      "oil",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 45,
+    "cook_time": 25,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "193a6b9e-528a-452d-af5b-195a5b026245"
+  },
+  {
+    "name": "Boondi",
+    "ingredients": [
+      "Gram flour",
+      "ghee",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 80,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Rajasthan",
+    "region": "West",
+    "id": "0f0059ff-bc57-4b45-981f-42474b3a66c7"
+  },
+  {
+    "name": "Gajar ka halwa",
+    "ingredients": [
+      "Carrots",
+      "milk",
+      "sugar",
+      "ghee",
+      "cashews",
+      "raisins"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Punjab",
+    "region": "North",
+    "id": "e09a95e8-6e91-4ec6-bb78-8e6be699a63c"
+  },
+  {
+    "name": "Ghevar",
+    "ingredients": [
+      "Flour",
+      "ghee",
+      "kewra",
+      "milk",
+      "clarified butter",
+      "sugar",
+      "almonds",
+      "pistachio",
+      "saffron",
+      "green cardamom"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Rajasthan",
+    "region": "West",
+    "id": "90a7ffe2-e40e-4a5d-af1d-f65708c4ccf7"
+  },
+  {
+    "name": "Gulab jamun",
+    "ingredients": [
+      "Milk powder",
+      "plain flour",
+      "baking powder",
+      "ghee",
+      "milk",
+      "sugar",
+      "water",
+      "rose water"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 40,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "3362fbb0-bf2b-4768-9650-b89c3eebb0ae"
+  },
+  {
+    "name": "Imarti",
+    "ingredients": [
+      "Sugar syrup",
+      "lentil flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 50,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "7e4e0475-bcfd-4a6a-877b-6fdfed6dd9ef"
+  },
+  {
+    "name": "Jalebi",
+    "ingredients": [
+      "Maida",
+      "corn flour",
+      "baking soda",
+      "vinegar",
+      "curd",
+      "water",
+      "turmeric",
+      "saffron",
+      "cardamom"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 50,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "id": "354aa2a5-fd47-48e8-8e32-eb70a91aeb3a"
+  },
+  {
+    "name": "Kaju katli",
+    "ingredients": [
+      "Cashews",
+      "ghee",
+      "cardamom",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "-1",
+    "region": "-1",
+    "id": "3a183617-7c42-4513-a7ff-e767db244503"
+  },
+  {
+    "name": "Kalakand",
+    "ingredients": [
+      "Milk",
+      "cottage cheese",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "a0bf7df8-0c11-416c-8021-15deaf7b96ce"
+  },
+  {
+    "name": "Kheer",
+    "ingredients": [
+      "Milk",
+      "rice",
+      "sugar",
+      "dried fruits"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "-1",
+    "region": "-1",
+    "id": "3279c507-9764-48ad-824f-84fd950946a5"
+  },
+  {
+    "name": "Laddu",
+    "ingredients": [
+      "Gram flour",
+      "ghee",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "-1",
+    "region": "-1",
+    "id": "43907970-b0c6-4f79-9c55-8b413116cbb5"
+  },
+  {
+    "name": "Lassi",
+    "ingredients": [
+      "Yogurt",
+      "milk",
+      "nuts",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 5,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Punjab",
+    "region": "North",
+    "id": "8742370f-f781-4411-844e-db5bdd383e22"
+  },
+  {
+    "name": "Nankhatai",
+    "ingredients": [
+      "Refined flour",
+      "besan",
+      "ghee",
+      "powdered sugar",
+      "yoghurt",
+      "green cardamom"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "-1",
+    "region": "-1",
+    "id": "6fd414ec-8378-460c-bf94-12d8d30e5fe0"
+  },
+  {
+    "name": "Petha",
+    "ingredients": [
+      "Firm white pumpkin",
+      "sugar",
+      "kitchen lime",
+      "alum powder"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "id": "ef18d4c7-d0f2-45d5-a417-6944ef1e7a92"
+  },
+  {
+    "name": "Phirni",
+    "ingredients": [
+      "Rice",
+      "sugar",
+      "nuts"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Odisha",
+    "region": "East",
+    "id": "8e18dad1-7915-4f8d-af25-a519f9779552"
+  },
+  {
+    "name": "Rabri",
+    "ingredients": [
+      "Condensed milk",
+      "sugar",
+      "spices",
+      "nuts"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 45,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "id": "3e5b21c1-e11f-4505-9380-7e98d7564245"
+  },
+  {
+    "name": "Sheera",
+    "ingredients": [
+      "Semolina",
+      "ghee",
+      "nuts",
+      "milk"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 25,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "250ea796-1503-42e2-bd19-3a6c015fc9a6"
+  },
+  {
+    "name": "Singori",
+    "ingredients": [
+      "Khoa",
+      "coconut",
+      "molu leaf"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Uttarakhand",
+    "region": "North",
+    "id": "10f7cf60-a744-4c76-b7c1-c7047a173609"
+  },
+  {
+    "name": "Sohan halwa",
+    "ingredients": [
+      "Corn flour",
+      "ghee",
+      "dry fruits"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "id": "48ccf6eb-b196-429a-b11c-4b9889ccf40d"
+  },
+  {
+    "name": "Sohan papdi",
+    "ingredients": [
+      "Gram flour",
+      "ghee",
+      "sugar",
+      "milk",
+      "cardamom"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "7da1c534-bd51-41d3-acab-2aa0f344cbfe"
+  },
+  {
+    "name": "Chhena jalebi",
+    "ingredients": [
+      "Chhena",
+      "sugar",
+      "ghee"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 50,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Odisha",
+    "region": "East",
+    "id": "9f415df8-4d27-4129-ad6f-a7c7abd0de81"
+  },
+  {
+    "name": "Chhena kheeri",
+    "ingredients": [
+      "Chhena",
+      "sugar",
+      "milk"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Odisha",
+    "region": "East",
+    "id": "37c372bc-bccd-41f7-9ef2-83a2843c2efc"
+  },
+  {
+    "name": "Chhena poda",
+    "ingredients": [
+      "Sugar",
+      "chenna cheese"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 45,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Odisha",
+    "region": "East",
+    "id": "c262a518-b548-4596-a13a-a037298ef16b"
+  },
+  {
+    "name": "Cham cham",
+    "ingredients": [
+      "Flour",
+      "cream",
+      "sugar",
+      "saffron",
+      "lemon juice",
+      "coconut flakes"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 40,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "7d0f7e1a-a2db-485e-888c-9ab6f799512a"
+  },
+  {
+    "name": "Kheer sagar",
+    "ingredients": [
+      "Chenna",
+      "condensed milk",
+      "sugar",
+      "saffron",
+      "cardamom"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 25,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Odisha",
+    "region": "East",
+    "id": "3543aa1e-a96c-4092-9738-fb270c8d8dc8"
+  },
+  {
+    "name": "Ledikeni",
+    "ingredients": [
+      "Chhena",
+      "sugar",
+      "ghee"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 45,
+    "cook_time": 45,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "41e3aed2-98f6-40b1-91ec-532d4516cd8d"
+  },
+  {
+    "name": "Lyangcha",
+    "ingredients": [
+      "Flour",
+      "fried milk power",
+      "sugar syrup"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Assam",
+    "region": "North East",
+    "id": "17303330-4df3-41ff-ba9b-074e87e4a25c"
+  },
+  {
+    "name": "Malapua",
+    "ingredients": [
+      "Yoghurt",
+      "refined flour",
+      "ghee",
+      "fennel seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 120,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Bihar",
+    "region": "North",
+    "id": "ab22a9ed-351c-4dea-b4c3-c2727221fe8f"
+  },
+  {
+    "name": "Mihidana",
+    "ingredients": [
+      "Besan flour",
+      "sugar",
+      "ghee"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "3e7adcdc-b7c5-4cf5-a00d-1575cb6c4d35"
+  },
+  {
+    "name": "Misti doi",
+    "ingredients": [
+      "Milk",
+      "jaggery"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 480,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "aa6751e0-7310-4073-96df-820e54c2bfc4"
+  },
+  {
+    "name": "Pantua",
+    "ingredients": [
+      "Chhena",
+      "sugar",
+      "ghee",
+      "flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 45,
+    "cook_time": 45,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "885e3f25-93af-4e8c-a750-2cad07cfac2e"
+  },
+  {
+    "name": "Pithe",
+    "ingredients": [
+      "Rice flour",
+      "wheat flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 35,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Assam",
+    "region": "North East",
+    "id": "7445f465-1b80-47b7-b2fb-77f83ac8da4e"
+  },
+  {
+    "name": "Rasabali",
+    "ingredients": [
+      "Chenna",
+      "sweetened milk"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Odisha",
+    "region": "East",
+    "id": "210cd3d7-301f-427a-a18a-96d40e7af806"
+  },
+  {
+    "name": "Ras malai",
+    "ingredients": [
+      "Chhena",
+      "reduced milk",
+      "pistachio"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 180,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "96797e8c-f49a-4e9d-8c66-30ec5b2bd3cc"
+  },
+  {
+    "name": "Rasgulla",
+    "ingredients": [
+      "Chhena",
+      "sugar",
+      "cardamom"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 90,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "64b54c5e-b04c-406a-b6d9-b6baf23d0cf2"
+  },
+  {
+    "name": "Sandesh",
+    "ingredients": [
+      "Milk",
+      "sugar",
+      "saffron",
+      "cardamom"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "91b33d16-7d3c-42cb-9dcd-ac880896dc88"
+  },
+  {
+    "name": "Adhirasam",
+    "ingredients": [
+      "Rice flour",
+      "jaggery",
+      "ghee",
+      "vegetable oil",
+      "elachi"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 50,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "1aa0ff0d-0c87-431d-a5f8-1870c1af1040"
+  },
+  {
+    "name": "Ariselu",
+    "ingredients": [
+      "Rice flour",
+      "jaggery",
+      "ghee"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 75,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "id": "c322a863-9d9f-40f3-b9f0-b910c2f11bc2"
+  },
+  {
+    "name": "Bandar laddu",
+    "ingredients": [
+      "Besan",
+      "jaggery",
+      "cardamom powder",
+      "ghee",
+      "cashews and raisins",
+      "jaggery syrup",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 35,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "id": "e1d44173-e03a-46ef-87ab-3bfb63586f2a"
+  },
+  {
+    "name": "Chikki",
+    "ingredients": [
+      "Peanuts",
+      "jaggery"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "78ee40e8-e627-474e-9aa2-bc3db30d5d3a"
+  },
+  {
+    "name": "Dharwad pedha",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Dharwadi buffalo milk"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Karnataka",
+    "region": "South",
+    "id": "1216ae57-67fb-4afc-a156-5db364d407a2"
+  },
+  {
+    "name": "Double ka meetha",
+    "ingredients": [
+      "Loaf bread",
+      "milk"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Telangana",
+    "region": "South",
+    "id": "7a39c332-7e78-4ad7-b064-7f967394bfe8"
+  },
+  {
+    "name": "Gavvalu",
+    "ingredients": [
+      "Rice flour",
+      "sugar",
+      "salt",
+      "ghee",
+      "semolina"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "id": "fe5dbf96-3243-4308-a3f2-54c2f14f5b7a"
+  },
+  {
+    "name": "Kakinada khaja",
+    "ingredients": [
+      "Wheat flour",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "id": "59f261c6-72f0-44df-aaca-db23f11a9484"
+  },
+  {
+    "name": "Kuzhi paniyaram",
+    "ingredients": [
+      "Black lentils",
+      "rice"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Kerala",
+    "region": "South",
+    "id": "62b8dce7-4c79-42e3-9a21-41c826abf59a"
+  },
+  {
+    "name": "Mysore pak",
+    "ingredients": [
+      "Besan flour",
+      "semolina",
+      "mung bean",
+      "jaggery",
+      "coconut",
+      "skimmed milk powder",
+      "sugar",
+      "ghee"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Karnataka",
+    "region": "South",
+    "id": "e371ee98-4018-4713-8c29-3a4d4a7f5bb4"
+  },
+  {
+    "name": "Obbattu holige",
+    "ingredients": [
+      "Maida flour",
+      "turmeric",
+      "coconut",
+      "chickpeas",
+      "jaggery",
+      "ghee",
+      "cardamom"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 180,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "main course",
+    "state": "Karnataka",
+    "region": "South",
+    "id": "774d696f-ddca-48c0-94d3-17b813989c0e"
+  },
+  {
+    "name": "Palathalikalu",
+    "ingredients": [
+      "Rice flour",
+      "milk"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 25,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "id": "bc1050cb-4e25-4b51-b529-1af86be073db"
+  },
+  {
+    "name": "Poornalu",
+    "ingredients": [
+      "Chana dal",
+      "jaggery"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 240,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "id": "28a34c47-c904-4eaf-b40b-2cfd795e33cf"
+  },
+  {
+    "name": "Pongal",
+    "ingredients": [
+      "Rice",
+      "jaggery",
+      "cashews",
+      "ghee"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "84d07a88-4fe2-46b5-ae3a-b361826b4c98"
+  },
+  {
+    "name": "Pootharekulu",
+    "ingredients": [
+      "Rice flour",
+      "powdered sugar",
+      "ghee"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "id": "488325f3-9d19-4801-9135-309b9baf2337"
+  },
+  {
+    "name": "Qubani ka meetha",
+    "ingredients": [
+      "Apricots",
+      "sugar syrup"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Telangana",
+    "region": "South",
+    "id": "42acb0ae-91a4-44a0-90f4-64f34c2f64d8"
+  },
+  {
+    "name": "Sheer korma",
+    "ingredients": [
+      "Vermicelli pudding",
+      "milk"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Telangana",
+    "region": "South",
+    "id": "fb030bc3-f37b-4ee5-8157-84c792185c37"
+  },
+  {
+    "name": "Unni Appam",
+    "ingredients": [
+      "Rice flour",
+      "banana",
+      "jaggery",
+      "coconut"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "cc9e6e49-0472-423c-bdd5-d77ed8f4ae4e"
+  },
+  {
+    "name": "Kajjikaya",
+    "ingredients": [
+      "Rice flour",
+      "jaggery",
+      "coconut"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 40,
+    "cook_time": 15,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "id": "797ca4fd-d8dd-4593-86d7-0e7450ac7c3a"
+  },
+  {
+    "name": "Anarsa",
+    "ingredients": [
+      "Rice flour",
+      "jaggery",
+      "khus-khus seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 50,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "6d6b82fe-43bb-41ae-9c2d-6f56ab113508"
+  },
+  {
+    "name": "Basundi",
+    "ingredients": [
+      "Sugar",
+      "milk",
+      "nuts"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 35,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "d01e0d8e-5020-46a1-9348-cd8a3bc96b2b"
+  },
+  {
+    "name": "Dhondas",
+    "ingredients": [
+      "Cucumber",
+      "rava"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 50,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "58514f9a-7c19-45be-b9c3-750348bf7840"
+  },
+  {
+    "name": "Doodhpak",
+    "ingredients": [
+      "Milk",
+      "rice",
+      "sugar",
+      "dry fruits"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "85475a1f-8347-4a15-8156-6fac9fe55e00"
+  },
+  {
+    "name": "Mahim halwa",
+    "ingredients": [
+      "Semolina",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 25,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "b805551c-dc47-40ac-9611-5222c164abe5"
+  },
+  {
+    "name": "Modak",
+    "ingredients": [
+      "Rice flour",
+      "coconut",
+      "jaggery"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 15,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "05f90ff8-45fd-4f11-b2f2-6bd2b421e116"
+  },
+  {
+    "name": "Shankarpali",
+    "ingredients": [
+      "Sugar",
+      "ghee",
+      "maida flour",
+      "semolina"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 35,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "218c9486-fa91-4f70-80e6-3ba1f849ef32"
+  },
+  {
+    "name": "Shrikhand",
+    "ingredients": [
+      "Curd",
+      "sugar",
+      "saffron",
+      "cardamom"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 720,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "7aeabe40-f5cc-4c94-a41a-b6b1a0725182"
+  },
+  {
+    "name": "Sutar feni",
+    "ingredients": [
+      "Maida",
+      "sugar",
+      "ghee"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 55,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "21d2229a-9943-407a-a468-7db1663fbbeb"
+  },
+  {
+    "name": "Maach Jhol",
+    "ingredients": [
+      "Fish",
+      "potol",
+      "tomato",
+      "chillies",
+      "ginger",
+      "garlic"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "19400f74-fe0e-4f2c-8503-d3825b4417d7"
+  },
+  {
+    "name": "Pork Bharta",
+    "ingredients": [
+      "Boiled pork",
+      "onions",
+      "chillies",
+      "ginger and garlic"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tripura",
+    "region": "North East",
+    "id": "56d3d482-f707-4356-8189-e25eac452fb5"
+  },
+  {
+    "name": "Chak Hao Kheer",
+    "ingredients": [
+      "Rice",
+      "milk",
+      "sugar",
+      "cardamom"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 240,
+    "cook_time": 45,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Manipur",
+    "region": "North East",
+    "id": "55a108bf-a033-4548-8ba3-64c37c9ab9f7"
+  },
+  {
+    "name": "Galho",
+    "ingredients": [
+      "Rice",
+      "axone",
+      "salt",
+      "water",
+      "chillies",
+      "pork"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 5,
+    "cook_time": 15,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Nagaland",
+    "region": "North East",
+    "id": "7c5184f1-bea3-4fdf-abe9-0b914a4cb551"
+  },
+  {
+    "name": "Aloo gobi",
+    "ingredients": [
+      "Cauliflower",
+      "potato",
+      "garam masala",
+      "turmeric",
+      "curry leaves"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "acd2bdc9-720a-4916-ac40-b1de0bc0a5ba"
+  },
+  {
+    "name": "Aloo tikki",
+    "ingredients": [
+      "Rice flour",
+      "potato",
+      "bread crumbs",
+      "garam masala",
+      "salt"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "cfa7d6c1-f7c0-4693-99d9-2b4c147d67b4"
+  },
+  {
+    "name": "Aloo matar",
+    "ingredients": [
+      "Potato",
+      "peas",
+      "chillies",
+      "ginger",
+      "garam masala",
+      "garlic"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "245994da-f84b-4b41-918b-cfc65be2ddf7"
+  },
+  {
+    "name": "Aloo methi",
+    "ingredients": [
+      "Potato",
+      "fenugreek leaves",
+      "chillies",
+      "salt",
+      "oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "bitter",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "08521a65-ee42-4f78-8c3e-6d6311411d7d"
+  },
+  {
+    "name": "Aloo shimla mirch",
+    "ingredients": [
+      "Potato",
+      "shimla mirch",
+      "garam masala",
+      "amchur powder",
+      "salt"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "92159f4a-92cc-4c75-b13b-0197b7a6fece"
+  },
+  {
+    "name": "Bhatura",
+    "ingredients": [
+      "Chole",
+      "rava",
+      "yogurt",
+      "plain flour",
+      "baking soda"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "98cac80c-aaf7-4fa8-8f36-bf6aba105e7b"
+  },
+  {
+    "name": "Bhindi masala",
+    "ingredients": [
+      "Ladies finger",
+      "garam masala",
+      "kasuri methi",
+      "tomatoes",
+      "chili powder"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "c0298424-8706-4ec6-a971-6c49e61f66cc"
+  },
+  {
+    "name": "Biryani",
+    "ingredients": [
+      "Chicken thighs",
+      "basmati rice",
+      "star anise",
+      "sweet",
+      "green chillies"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 30,
+    "cook_time": 120,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Telangana",
+    "region": "South",
+    "id": "2587f52d-e5ba-4581-bfa6-09b40d46825a"
+  },
+  {
+    "name": "Butter chicken",
+    "ingredients": [
+      "Chicken",
+      "greek yogurt",
+      "cream",
+      "garam masala powder",
+      "cashew nuts",
+      "butter"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 10,
+    "cook_time": 35,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "NCT of Delhi",
+    "region": "North",
+    "id": "98754c24-3a08-45ca-a679-03d1c8a2f110"
+  },
+  {
+    "name": "Chana masala",
+    "ingredients": [
+      "Chickpeas",
+      "tomato paste",
+      "garam masala",
+      "ginger",
+      "red onion",
+      "avocado oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "6cd1fbaf-4446-4e32-9bce-834ed3453918"
+  },
+  {
+    "name": "Chapati",
+    "ingredients": [
+      "Whole wheat flour",
+      "olive oil",
+      "hot water",
+      "all purpose flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 10,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "c909a571-7e63-439a-9ee6-c15cbe0d570f"
+  },
+  {
+    "name": "Chicken razala",
+    "ingredients": [
+      "Chicken",
+      "dahi",
+      "sesame seeds",
+      "garam masala powder",
+      "cashew nuts",
+      "saffron"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 10,
+    "cook_time": 35,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "64268dd7-8ba9-45a0-ac6b-018b17c96155"
+  },
+  {
+    "name": "Chicken Tikka masala",
+    "ingredients": [
+      "Naan bread",
+      "tomato sauce",
+      "skinless chicken breasts",
+      "heavy cream",
+      "garam masala"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 10,
+    "cook_time": 50,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "ab5d36f0-4d11-4d19-97db-8fe3a9c115c5"
+  },
+  {
+    "name": "Chicken Tikka",
+    "ingredients": [
+      "Chicken",
+      "whole wheat bread",
+      "rice flour",
+      "garam masala powder",
+      "whole egg"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 120,
+    "cook_time": 45,
+    "flavor_profile": "spicy",
+    "course": "starter",
+    "state": "Punjab",
+    "region": "North",
+    "id": "f80bc690-d234-430c-95d3-55d9fccadb71"
+  },
+  {
+    "name": "Chole bhature",
+    "ingredients": [
+      "Chole",
+      "bhatura",
+      "garam masala",
+      "bay leaf",
+      "cinnamon stick"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "dfe67e92-7e4d-48bd-98bf-88da46202741"
+  },
+  {
+    "name": "Daal baati churma",
+    "ingredients": [
+      "Moong dal",
+      "masoor dal",
+      "chana dal",
+      "wheat flour",
+      "almond"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 90,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Rajasthan",
+    "region": "West",
+    "id": "8e309c0c-2ed2-4015-96d3-7375d491b8f2"
+  },
+  {
+    "name": "Daal puri",
+    "ingredients": [
+      "Moong dal",
+      "garam masala powder",
+      "garlic",
+      "green chilli",
+      "all purpose flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "44db8f59-d430-42b2-8cef-fbd16386408d"
+  },
+  {
+    "name": "Dal makhani ",
+    "ingredients": [
+      "Red kidney beans",
+      "urad dal",
+      "cream",
+      "garam masala",
+      "chili powder"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "95d93c1b-5780-4983-b1b5-11f9148c6c68"
+  },
+  {
+    "name": "Dal tadka",
+    "ingredients": [
+      "Pigeon peas",
+      "garam masala",
+      "ginger",
+      "red onion",
+      "kasuri methi"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "63deb617-8bc8-4adc-a5d1-fc972b7f2e26"
+  },
+  {
+    "name": "Dum aloo",
+    "ingredients": [
+      "Baby potatoes",
+      "garam masala",
+      "cashew nuts",
+      "kasuri methi",
+      "tomatoes"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 50,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Jammu & Kashmir",
+    "region": "North",
+    "id": "b87a4df0-20ee-4adf-8b1e-a0eaf09e5755"
+  },
+  {
+    "name": "Poha",
+    "ingredients": [
+      "Beaten rice flakes",
+      "potato",
+      "curry leaves",
+      "green chilies",
+      "lemon juice"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "af2a5cca-463b-478c-afeb-4e424586c0a5"
+  },
+  {
+    "name": "Fara",
+    "ingredients": [
+      "Chana dal",
+      "whole wheat flour",
+      "arhar dal",
+      "white urad dal",
+      "garam masala powder"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 60,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Chhattisgarh",
+    "region": "Central",
+    "id": "2114a2a2-414e-4de0-a355-2fb5730a7f96"
+  },
+  {
+    "name": "Kachori",
+    "ingredients": [
+      "Moong dal",
+      "rava",
+      "garam masala",
+      "dough",
+      "fennel seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 60,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "id": "4729ab8e-a526-485b-8500-c87f425a4019"
+  },
+  {
+    "name": "Kadai paneer",
+    "ingredients": [
+      "Cottage cheese",
+      "bell peppers",
+      "gravy",
+      "garam masala",
+      "cashew nuts"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "bddd5e0a-e9cd-4a36-9fa1-28214c9d1bcc"
+  },
+  {
+    "name": "Kadhi pakoda",
+    "ingredients": [
+      "Besan",
+      "garam masala powder",
+      "gram flour",
+      "ginger",
+      "curry leaves"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 60,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Haryana",
+    "region": "North",
+    "id": "f19043c2-045a-4048-9d6e-d92f3f524076"
+  },
+  {
+    "name": "Karela bharta",
+    "ingredients": [
+      "Bitter gourd",
+      "fennel",
+      "garam masala powder",
+      "chili powder",
+      "amchur powder"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 50,
+    "flavor_profile": "bitter",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "6172e48d-19fd-447b-bf6f-0e69987f5c5d"
+  },
+  {
+    "name": "Khichdi",
+    "ingredients": [
+      "Moong dal",
+      "green peas",
+      "ginger",
+      "tomato",
+      "green chili"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 40,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "-1",
+    "region": "-1",
+    "id": "e6770738-b24a-490b-b516-fdf87410fc83"
+  },
+  {
+    "name": "Kofta",
+    "ingredients": [
+      "Paneer",
+      "potato",
+      "cream",
+      "corn flour",
+      "garam masala"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "id": "2f422948-376d-4a61-9965-31434ac0fe18"
+  },
+  {
+    "name": "Kulfi falooda",
+    "ingredients": [
+      "Rose syrup",
+      "falooda sev",
+      "mixed nuts",
+      "saffron",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 45,
+    "cook_time": 25,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "-1",
+    "region": "-1",
+    "id": "da8addb3-eb61-4f35-9c9f-db010ca81c6d"
+  },
+  {
+    "name": "Lauki ke kofte",
+    "ingredients": [
+      "Bottle gourd",
+      "garam masala powder",
+      "gram flour",
+      "ginger",
+      "chillies"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "id": "783fb3dc-3bdf-4956-9377-e6f60d86c3ea"
+  },
+  {
+    "name": "Lauki ki subji",
+    "ingredients": [
+      "Bottle gourd",
+      "coconut oil",
+      "garam masala",
+      "ginger",
+      "green chillies"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "-1",
+    "region": "-1",
+    "id": "8e50a260-eaff-4a60-99c2-c936c9a5d34c"
+  },
+  {
+    "name": "Litti chokha",
+    "ingredients": [
+      "Wheat flour",
+      "roasted gram flour",
+      "tomato",
+      "nigella seeds",
+      "chilli"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 45,
+    "cook_time": 60,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Bihar",
+    "region": "North",
+    "id": "05fafc7e-c9eb-4e1e-8a90-2f059892a4b8"
+  },
+  {
+    "name": "Makki di roti sarson da saag",
+    "ingredients": [
+      "Palak",
+      "makki atta",
+      "mustard green",
+      "garam masala",
+      "ginger"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 25,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "14da7838-5667-4e62-b043-b8fabc588905"
+  },
+  {
+    "name": "Misi roti",
+    "ingredients": [
+      "Whole wheat flour",
+      "chickpea flour",
+      "green chilies"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "17f0b1c1-5e4a-47cc-b4a7-a1ea71268920"
+  },
+  {
+    "name": "Mushroom do pyaza",
+    "ingredients": [
+      "Mushroom",
+      "malai",
+      "garam masala",
+      "ginger",
+      "capsicum"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "f7cd1afa-8589-4a0a-8d8f-63527ccf0287"
+  },
+  {
+    "name": "Mushroom matar",
+    "ingredients": [
+      "Canned coconut milk",
+      "frozen green peas",
+      "wild mushrooms",
+      "garam masala",
+      "tomatoes"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "592f2277-f2a3-42a2-bf53-bf89a7591843"
+  },
+  {
+    "name": "Naan",
+    "ingredients": [
+      "Whole wheat flour",
+      "honey",
+      "butter",
+      "garlic"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 60,
+    "cook_time": 30,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "b440ef81-c54f-4791-93b7-7bdb3bbe1d25"
+  },
+  {
+    "name": "Navrattan korma",
+    "ingredients": [
+      "Green beans",
+      "potatoes",
+      "khus khus",
+      "low fat",
+      "garam masala powder"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 25,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "id": "ec69892a-645b-492d-81ee-912568790e0c"
+  },
+  {
+    "name": "Palak paneer",
+    "ingredients": [
+      "Cottage cheese",
+      "palak",
+      "cream",
+      "garam masala",
+      "butter"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "001b5889-1adf-475b-9b15-1b71986c0bdd"
+  },
+  {
+    "name": "Paneer butter masala",
+    "ingredients": [
+      "Paneer",
+      "whipping cream",
+      "garam masala",
+      "cashew nuts",
+      "butter"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "ca976b06-089f-4ee4-b379-177385152e7b"
+  },
+  {
+    "name": "Paneer tikka masala",
+    "ingredients": [
+      "Paneer",
+      "greek yogurt",
+      "tandoori masala",
+      "cream",
+      "bell pepper"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "565e2067-a772-4dec-8dc3-e87604b48859"
+  },
+  {
+    "name": "Pani puri",
+    "ingredients": [
+      "Kala chana",
+      "mashed potato",
+      "boondi",
+      "sev",
+      "lemon"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 2,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "-1",
+    "region": "-1",
+    "id": "dce7699b-cad2-4761-98a1-ac87e47ad61b"
+  },
+  {
+    "name": "Panjeeri",
+    "ingredients": [
+      "Whole wheat flour",
+      "musk melon seeds",
+      "poppy seeds",
+      "edible gum",
+      "semolina"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 25,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Uttar Pradesh",
+    "region": "",
+    "id": "724cf14f-650a-41d2-a78f-4367fe8cd1ae"
+  },
+  {
+    "name": "Papad",
+    "ingredients": [
+      "Urad dal",
+      "sev",
+      "lemon juice",
+      "chopped tomatoes"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 5,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "-1",
+    "region": "-1",
+    "id": "f23311bd-67ae-4abe-87e6-bf5acb1df1ac"
+  },
+  {
+    "name": "Paratha",
+    "ingredients": [
+      "Wheat flour",
+      "butter",
+      "potato",
+      "coriander"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 45,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "7c320e5f-961d-4b58-a34c-158d8a127900"
+  },
+  {
+    "name": "Pattor",
+    "ingredients": [
+      "Arbi ke patte",
+      "sesame seeds",
+      "gur",
+      "bengal gram flour",
+      "imli"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Rajasthan",
+    "region": "West",
+    "id": "df6e9ca6-befe-4876-8725-9e7efc60f866"
+  },
+  {
+    "name": "Pindi chana",
+    "ingredients": [
+      "Fennel",
+      "tea bags",
+      "tomato",
+      "kasuri methi",
+      "cinnamon"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 500,
+    "cook_time": 120,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "9a7336b2-561c-4d67-aa09-cbd5688f94d0"
+  },
+  {
+    "name": "Rajma chaval",
+    "ingredients": [
+      "Red kidney beans",
+      "garam masala powder",
+      "ginger",
+      "tomato",
+      "mustard oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 90,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "-1",
+    "region": "North",
+    "id": "8042bb2a-850f-4e5f-9bc5-055c9c493cb0"
+  },
+  {
+    "name": "Rongi",
+    "ingredients": [
+      "Garam masala powder",
+      "tomato",
+      "kasuri methi",
+      "cinnamon",
+      "mustard oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "c1d79435-6617-4bfb-a551-144c601990d8"
+  },
+  {
+    "name": "Samosa",
+    "ingredients": [
+      "Potatoes",
+      "green peas",
+      "garam masala",
+      "ginger",
+      "dough"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "-1",
+    "region": "-1",
+    "id": "835213cb-2258-4080-801b-695f3b177b40"
+  },
+  {
+    "name": "Sattu ki roti",
+    "ingredients": [
+      "Sattu",
+      "atta",
+      "dough",
+      "filling",
+      "mustard oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Bihar",
+    "region": "North",
+    "id": "025e561c-b0a9-4c1a-ba99-c0de00e31fee"
+  },
+  {
+    "name": "Shahi paneer",
+    "ingredients": [
+      "Cottage cheese",
+      "malai",
+      "garam masala",
+      "ginger",
+      "tomato"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "ee5f9eeb-bc10-4039-8769-ca3fff3a54b0"
+  },
+  {
+    "name": "Shahi tukra",
+    "ingredients": [
+      "Rose water",
+      "milk",
+      "white bread slices",
+      "saffron",
+      "almonds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Telangana",
+    "region": "South",
+    "id": "864d0da4-47b6-47dc-a77d-c51e85386ff3"
+  },
+  {
+    "name": "Vegetable jalfrezi",
+    "ingredients": [
+      "Baby corn",
+      "french beans",
+      "garam masala",
+      "ginger",
+      "carrot"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "32a9cbeb-c662-488e-9f03-33fec7bcbf77"
+  },
+  {
+    "name": "Tandoori Chicken",
+    "ingredients": [
+      "Greek yogurt",
+      "garam masala",
+      "kasuri methi",
+      "marinade",
+      "mustard oil"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 240,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Punjab",
+    "region": "North",
+    "id": "632ca4fe-8b36-4663-9464-8b6442932e1b"
+  },
+  {
+    "name": "Tandoori Fish Tikka",
+    "ingredients": [
+      "Chickpea flour",
+      "biryani masala powder",
+      "yogurt",
+      "fish fillets",
+      "green bell pepper"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 240,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "starter",
+    "state": "Punjab",
+    "region": "North",
+    "id": "b1f74bb9-6325-43cd-932c-efa47b1bedb0"
+  },
+  {
+    "name": "Attu",
+    "ingredients": [
+      "Whole wheat flour",
+      "arhar dal",
+      "ginger",
+      "kala jeera",
+      "green chilli"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 150,
+    "cook_time": 25,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "id": "9d2a4afb-1965-4b97-bf97-cb86926a0711"
+  },
+  {
+    "name": "Avial",
+    "ingredients": [
+      "Raw banana",
+      "elephant foot yam",
+      "long beans",
+      "tindora",
+      "urad dal"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 45,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Kerala",
+    "region": "South",
+    "id": "e1a98f50-ec66-49c0-b5d6-56c62142d7b8"
+  },
+  {
+    "name": "Bisi bele bath",
+    "ingredients": [
+      "Split pigeon peas",
+      "chana dal",
+      "urad dal",
+      "green peas",
+      "french beans"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 45,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Karnataka",
+    "region": "South",
+    "id": "50e4c683-58a1-44a0-9545-aaec8c337a9c"
+  },
+  {
+    "name": "Currivepillai sadam ",
+    "ingredients": [
+      "Chana dal",
+      "urad dal",
+      "fresh coconut",
+      "sesame seeds",
+      "curry leaves"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "b3890163-44d6-429b-b445-1b4fc6bcd7d2"
+  },
+  {
+    "name": "Dosa",
+    "ingredients": [
+      "Chana dal",
+      "urad dal",
+      "whole urad dal",
+      "blend rice",
+      "rock salt"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 360,
+    "cook_time": 90,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "-1",
+    "region": "South",
+    "id": "ee383d43-e272-4003-8f76-80b8aab3cb83"
+  },
+  {
+    "name": "Idiappam",
+    "ingredients": [
+      "Rice flour",
+      "hot water",
+      "grated coconut"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 120,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "52ec449e-2a60-4bb5-8358-5c58da6f8d43"
+  },
+  {
+    "name": "Idli",
+    "ingredients": [
+      "Split urad dal",
+      "urad dal",
+      "idli rice",
+      "thick poha",
+      "rock salt"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 360,
+    "cook_time": 90,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "-1",
+    "region": "South",
+    "id": "9de68649-9cac-4172-a0d1-fe386eafcfce"
+  },
+  {
+    "name": "Kanji",
+    "ingredients": [
+      "Carrot",
+      "yellow mustard",
+      "red chilli",
+      "black salt"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 45,
+    "flavor_profile": "-1",
+    "course": "snack",
+    "state": "Kerala",
+    "region": "South",
+    "id": "dc670330-63f4-4eac-b60c-180d453110e9"
+  },
+  {
+    "name": "Kaara kozhambu",
+    "ingredients": [
+      "Sesame oil",
+      "drumstick",
+      "tamarind paste",
+      "sambar powder",
+      "tomato"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "f354efbd-4b82-4d49-80c5-cd0ba4e5cbbb"
+  },
+  {
+    "name": "Keerai kootu",
+    "ingredients": [
+      "Moong dal",
+      "chana dal",
+      "spinach",
+      "urad dal",
+      "coconut oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "dff332ad-ab92-4dec-a319-5cfc86414f68"
+  },
+  {
+    "name": "Keerai masiyal",
+    "ingredients": [
+      "Urad dal",
+      "curry leaves",
+      "sugar",
+      "mustard seeds",
+      "spinach"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "163b6cdb-1da6-4aef-b3cc-382994d62afa"
+  },
+  {
+    "name": "Keerai sadam",
+    "ingredients": [
+      "Greens",
+      "tomato",
+      "mustard seeds",
+      "fenugreek seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "d66f27c3-7b26-4d96-9bc5-72b922659344"
+  },
+  {
+    "name": "Keerai poriyal",
+    "ingredients": [
+      "Amaranth leaves",
+      "split urad dal",
+      "mustard seeds",
+      "grated coconut",
+      "red chili"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "23156eef-2b19-4bf7-8251-bc999e4df85b"
+  },
+  {
+    "name": "Beef Fry",
+    "ingredients": [
+      "Beef",
+      "coconut",
+      "garam masala",
+      "curry leaves",
+      "green chilies",
+      "chili powder"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 10,
+    "cook_time": 60,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Kerala",
+    "region": "South",
+    "id": "90bc3eba-3ed8-49f0-932a-ea6a974cfa9c"
+  },
+  {
+    "name": "Kootu",
+    "ingredients": [
+      "Chana dal",
+      "urad dal",
+      "potato",
+      "beans",
+      "peas"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 15,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "03571ea1-c1e8-411f-b20f-7d1919e28291"
+  },
+  {
+    "name": "Kos kootu",
+    "ingredients": [
+      "Moong dal",
+      "chana dal",
+      "cabbage",
+      "tamarind",
+      "curry leaves"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "93095120-a02a-4830-8da2-4bbf0d7f6370"
+  },
+  {
+    "name": "Koshambri",
+    "ingredients": [
+      "Moong dal",
+      "cucumber",
+      "curry leaves",
+      "green chili",
+      "lemon juice"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Karnataka",
+    "region": "South",
+    "id": "fed6fb45-7a41-45ef-b03e-09e0a5e57cc3"
+  },
+  {
+    "name": "Kothamali sadam",
+    "ingredients": [
+      "Chana dal",
+      "urad dal",
+      "gooseberry",
+      "raw rice",
+      "curry leaves"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "f9696fc2-7219-4ebe-9cc8-4561c9b13658"
+  },
+  {
+    "name": "Kuzhakkattai",
+    "ingredients": [
+      "Sesame oil",
+      "raw rice",
+      "jaggery",
+      "grated coconut"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 90,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "62666ea2-fa96-418c-a162-0b2e0ab98709"
+  },
+  {
+    "name": "Kuzhambu",
+    "ingredients": [
+      "Pearl onions",
+      "urad dal",
+      "drumsticks",
+      "tomato",
+      "curry leaves"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "6a23f204-66b3-4534-abdc-a66d86106d9f"
+  },
+  {
+    "name": "Masala Dosa",
+    "ingredients": [
+      "Chana dal",
+      "urad dal",
+      "potatoes",
+      "idli rice",
+      "thick poha"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 360,
+    "cook_time": 90,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "-1",
+    "region": "South",
+    "id": "47bc490c-4917-4be4-ada7-4e5cb9b60e24"
+  },
+  {
+    "name": "Pachadi",
+    "ingredients": [
+      "Coconut oil",
+      "cucumber",
+      "curd",
+      "curry leaves",
+      "mustard seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 25,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "-1",
+    "region": "South",
+    "id": "10058aba-a1db-40ce-aebd-6855c2337b90"
+  },
+  {
+    "name": "Paniyaram",
+    "ingredients": [
+      "Yogurt",
+      "ginger",
+      "curry leaves",
+      "baking soda",
+      "green chilli"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "8d5ddc50-56ad-4bb0-83cc-5b0c8208862e"
+  },
+  {
+    "name": "Papadum",
+    "ingredients": [
+      "Lentils",
+      "black pepper",
+      "vegetable oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 5,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Kerala",
+    "region": "South",
+    "id": "ccb0a9df-8cc9-488a-9b6b-80305b5a46a3"
+  },
+  {
+    "name": "Paravannam",
+    "ingredients": [
+      "Raw rice",
+      "jaggery",
+      "milk"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Kerala",
+    "region": "South",
+    "id": "920fd416-a6fb-4daa-b887-7a5a313a3ffd"
+  },
+  {
+    "name": "Payasam",
+    "ingredients": [
+      "Rice",
+      "cashew nuts",
+      "milk",
+      "raisins",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "-1",
+    "region": "South",
+    "id": "3c479566-af4e-49f6-9b4f-e1783866fa77"
+  },
+  {
+    "name": "Paruppu sadam",
+    "ingredients": [
+      "Arhar dal",
+      "sambar powder",
+      "tomato",
+      "curry leaves",
+      "fennel seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "f0abd3b8-9067-4e8b-b0b8-bfb663c2d7d4"
+  },
+  {
+    "name": "Pesarattu",
+    "ingredients": [
+      "Green moong beans",
+      "rice flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 120,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Andhra Pradesh",
+    "region": "South",
+    "id": "954a4067-35a7-490f-a007-a90e68746a77"
+  },
+  {
+    "name": "Poriyal",
+    "ingredients": [
+      "Chana dal",
+      "urad dal",
+      "beans",
+      "coconut",
+      "mustard"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "5af7f624-75a6-41a9-a8b7-b4d757919ebd"
+  },
+  {
+    "name": "Puli sadam",
+    "ingredients": [
+      "Urad dal",
+      "lemon",
+      "tamarind",
+      "cooked rice",
+      "curry leaves"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "abe5a864-c7ca-4098-bc54-47d6f16e1c6c"
+  },
+  {
+    "name": "Rasam",
+    "ingredients": [
+      "Tomato",
+      "curry leaves",
+      "garlic",
+      "mustard seeds",
+      "hot water"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 35,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "-1",
+    "region": "South",
+    "id": "21677c31-f323-4e09-afd4-472066c67517"
+  },
+  {
+    "name": "Puttu",
+    "ingredients": [
+      "Brown rice flour",
+      "sugar",
+      "grated coconut"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 495,
+    "cook_time": 40,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Kerala",
+    "region": "South",
+    "id": "13a29142-de36-4691-a5b9-a71cdf5e8b4a"
+  },
+  {
+    "name": "Sambar",
+    "ingredients": [
+      "Pigeon peas",
+      "eggplant",
+      "drumsticks",
+      "sambar powder",
+      "tamarind"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 45,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "-1",
+    "region": "South",
+    "id": "a68f7229-39ed-4ec8-9e82-e25e9a96c286"
+  },
+  {
+    "name": "Sandige",
+    "ingredients": [
+      "Thin rice flakes",
+      "black sesame seeds",
+      "curry leaves"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 120,
+    "cook_time": 60,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Karnataka",
+    "region": "South",
+    "id": "ac65fc20-4c84-49ef-b42c-cbea723ee3ea"
+  },
+  {
+    "name": "Sevai",
+    "ingredients": [
+      "Sevai",
+      "parboiled rice",
+      "steamer"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 120,
+    "cook_time": 30,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "-1",
+    "region": "South",
+    "id": "4f61c0b8-8f66-4edb-b8f8-fc1cfaf617a6"
+  },
+  {
+    "name": "Thayir sadam",
+    "ingredients": [
+      "Urad dal",
+      "curd",
+      "sesame oil",
+      "ginger",
+      "curry leaves",
+      "mustard seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "83170ff0-f41e-4ad4-85e3-201b6432a6f2"
+  },
+  {
+    "name": "Theeyal",
+    "ingredients": [
+      "Coconut",
+      "whole red beans",
+      "masala",
+      "sesame oil",
+      "tamarind"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 20,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Kerala",
+    "region": "South",
+    "id": "0ec4569f-cb1e-4e62-be24-e3ac92c73612"
+  },
+  {
+    "name": "Uttapam",
+    "ingredients": [
+      "Chana dal",
+      "urad dal",
+      "thick poha",
+      "tomato",
+      "butter"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "-1",
+    "region": "South",
+    "id": "75123038-59e0-48da-941e-cdd2756994b0"
+  },
+  {
+    "name": "Vada",
+    "ingredients": [
+      "Urad dal",
+      "ginger",
+      "curry leaves",
+      "green chilies",
+      "black pepper"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "-1",
+    "region": "South",
+    "id": "d351c9e6-9fb5-4515-9718-3ce5ebea0005"
+  },
+  {
+    "name": "Chicken Varuval",
+    "ingredients": [
+      "Meat curry powder",
+      "chicken chunks",
+      "ginger",
+      "tomato",
+      "cinnamon"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 10,
+    "cook_time": 35,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Tamil Nadu",
+    "region": "South",
+    "id": "644718b6-e996-4f16-8e03-fa04fce2f887"
+  },
+  {
+    "name": "Upma",
+    "ingredients": [
+      "Chana dal",
+      "urad dal",
+      "ginger",
+      "curry leaves",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "-1",
+    "region": "-1",
+    "id": "e20f8ed8-0eb1-4b28-807d-c4bf9a098c35"
+  },
+  {
+    "name": "Amti",
+    "ingredients": [
+      "Kala masala",
+      "arhar dal",
+      "curry leaves",
+      "mustard seeds",
+      "hot water"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 45,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "db3f36f3-8e8b-4f8e-af1a-6a5a1b4ded90"
+  },
+  {
+    "name": "Zunka",
+    "ingredients": [
+      "Gram flour",
+      "mustard",
+      "garlic",
+      "turmeric",
+      "red chilli"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 25,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "a35f3d93-a0bf-4a5c-9dd3-a00dc72c8a80"
+  },
+  {
+    "name": "Kolim Jawla",
+    "ingredients": [
+      "Baingan",
+      "fish",
+      "coconut oil",
+      "fresh coconut",
+      "ginger"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "d6c5287d-d153-4c91-bfdc-a23ea1e92487"
+  },
+  {
+    "name": "Saath",
+    "ingredients": [
+      "Urad dal",
+      "potatoes",
+      "wheat flour",
+      "sooji"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "b84bcc14-da61-4a5a-978c-5319fc1e2da9"
+  },
+  {
+    "name": "Bajri no rotlo",
+    "ingredients": [
+      "Wheat flour",
+      "pearl millet flour",
+      "hot water"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 10,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "cedd8e59-0552-4db9-abfc-da8bdbd7b553"
+  },
+  {
+    "name": "Coconut vadi",
+    "ingredients": [
+      "Condensed milk",
+      "mawa",
+      "desiccated coconut",
+      "almonds",
+      "cashews"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "08b996f4-cb5b-4442-8e15-fa61ad227a77"
+  },
+  {
+    "name": "Bhakri",
+    "ingredients": [
+      "Jowar flour",
+      "sesame seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 25,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "b6a3519e-b388-45ac-a1b5-ada98befc670"
+  },
+  {
+    "name": "Bombil fry",
+    "ingredients": [
+      "Bombay duck",
+      "malvani masala",
+      "rice flour",
+      "bombay rava",
+      "green chilies"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "e1b8b82a-453f-4256-a7b6-98e4be1816d7"
+  },
+  {
+    "name": "Chakali",
+    "ingredients": [
+      "Rice flour",
+      "sesame",
+      "plain flour",
+      "turmeric",
+      "red chilli"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "57cf226f-5244-42ba-9b7f-52a7b3a6f110"
+  },
+  {
+    "name": "Chevdo",
+    "ingredients": [
+      "Citric acid",
+      "fry",
+      "raisins",
+      "sugar",
+      "chana daal"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "62b206cb-d92e-41b4-9b7f-51b3d8ad0035"
+  },
+  {
+    "name": "Chorafali",
+    "ingredients": [
+      "Urad dal",
+      "bengal gram flour",
+      "dried mango",
+      "baking soda",
+      "black salt"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 15,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "0a4bce1c-a1cf-45eb-96f1-7b1fcbc37fae"
+  },
+  {
+    "name": "Copra paak",
+    "ingredients": [
+      "Condensed milk",
+      "nestle cream",
+      "coconut ice",
+      "red food coloring",
+      "desiccated coconut"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "e5c51f00-0b60-48ab-bce9-17fe1d8e5e5f"
+  },
+  {
+    "name": "Daal Dhokli",
+    "ingredients": [
+      "Whole wheat flour",
+      "dal",
+      "kokum",
+      "gur",
+      "bengal gram flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "799fd8cd-ebe6-45f5-bdbf-7c05caa30140"
+  },
+  {
+    "name": "Kutchi dabeli",
+    "ingredients": [
+      "Pav",
+      "aloo",
+      "peanut",
+      "pomegranate",
+      "star anise"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 10,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "d5b29e9d-7b4a-4041-a180-4122376ee0a9"
+  },
+  {
+    "name": "Dahi vada",
+    "ingredients": [
+      "Urad dal",
+      "bhuna chana",
+      "garam masala",
+      "dates",
+      "tamarind"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 30,
+    "flavor_profile": "-1",
+    "course": "snack",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "d0ae8364-3932-4e73-a980-7e3328f88faf"
+  },
+  {
+    "name": "Dalithoy",
+    "ingredients": [
+      "Arhar dal",
+      "coconut oil",
+      "curry leaves",
+      "mustard seeds",
+      "red chilli"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 20,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "b722cf5f-1d8a-4bcb-8162-62f75d6b7ef9"
+  },
+  {
+    "name": "Dhokla",
+    "ingredients": [
+      "Rava",
+      "coconut",
+      "gram flour",
+      "mustard",
+      "sesame"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "cc3ca6f7-e596-4fe8-a1bf-648998818c1d"
+  },
+  {
+    "name": "Dudhi halwa",
+    "ingredients": [
+      "Bottle gourd",
+      "green",
+      "raisins",
+      "sugar",
+      "clarified butter"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "9c624f82-a5e3-4236-b8b6-cd202f5d1c82"
+  },
+  {
+    "name": "Gatta curry",
+    "ingredients": [
+      "Yogurt",
+      "besan",
+      "sauce",
+      "garam masala powder",
+      "gram flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Rajasthan",
+    "region": "West",
+    "id": "7f45049c-46c7-4080-abd7-68e0deaf4718"
+  },
+  {
+    "name": "Gud papdi",
+    "ingredients": [
+      "Wheat flour",
+      "jaggery",
+      "clarified butter",
+      "sliced almonds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "77d69e00-bc55-4140-bd4d-94b31bef217d"
+  },
+  {
+    "name": "Ghooghra",
+    "ingredients": [
+      "Dry fruits",
+      "semolina",
+      "all purpose flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "9185979b-f3f5-4fef-ab11-7e9197d7f289"
+  },
+  {
+    "name": "Handwo",
+    "ingredients": [
+      "Bottle gourd",
+      "chana dal",
+      "cabbage",
+      "urad dal",
+      "toor dal"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "da7c971e-ec17-4bc1-bf70-992bed174c05"
+  },
+  {
+    "name": "Halvasan",
+    "ingredients": [
+      "Whole wheat rava",
+      "chia seed",
+      "lemon",
+      "edible gum",
+      "litre milk"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "0c98f195-04bf-42fe-96d7-f12c246315b6"
+  },
+  {
+    "name": "Jeera Aloo",
+    "ingredients": [
+      "Green chilies",
+      "lemon juice",
+      "chili powder",
+      "boiled potatoes"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "b1362b66-b8b6-4558-91ae-95bee51e942f"
+  },
+  {
+    "name": "Kansar",
+    "ingredients": [
+      "Wheat flour",
+      "cashews",
+      "rapeseed oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "a55b3de4-2dc6-4935-8815-26c7d0e78ee2"
+  },
+  {
+    "name": "Keri no ras",
+    "ingredients": [
+      "Mango",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 10,
+    "flavor_profile": "sour",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "9bb52220-69a6-4b8a-a53d-f6f466dd7ab6"
+  },
+  {
+    "name": "Khakhra",
+    "ingredients": [
+      "Whole wheat flour",
+      "low fat",
+      "bengal gram flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "526a341b-67f6-4d9d-9c00-4dc803d2fea3"
+  },
+  {
+    "name": "Khandvi",
+    "ingredients": [
+      "Green chili paste",
+      "white sesame seeds",
+      "gram flour",
+      "curry leaves",
+      "green chili"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 45,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "f1b43af9-fdc6-43b5-8950-b89ed6aa63e2"
+  },
+  {
+    "name": "Kombdi vade",
+    "ingredients": [
+      "Rice flour",
+      "urad dal",
+      "wheat flour",
+      "gram flour",
+      "turmeric"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 25,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "4e70d47b-fa4a-4f95-8e47-e2f730dc44d9"
+  },
+  {
+    "name": "Laapsi",
+    "ingredients": [
+      "Cinnamon",
+      "jaggery",
+      "clarified butter",
+      "dry roasted"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Madhya Pradesh",
+    "region": "Central",
+    "id": "cbb8cc97-d272-46e7-a2fa-cee3d857d6fa"
+  },
+  {
+    "name": "Koshimbir",
+    "ingredients": [
+      "Cucumber",
+      "carrot",
+      "tomatoes",
+      "cilantro"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 10,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "53ea6f74-ba16-4676-be77-dfcca17e8d33"
+  },
+  {
+    "name": "Methi na Gota",
+    "ingredients": [
+      "Rava",
+      "gram flour",
+      "lemon juice",
+      "turmeric",
+      "fenugreek leaves"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 30,
+    "flavor_profile": "bitter",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "eb0808eb-6bc9-4bfd-ae1a-c1935f4a199b"
+  },
+  {
+    "name": "Mohanthal",
+    "ingredients": [
+      "Rose water",
+      "pistachio",
+      "badam",
+      "bengal gram flour",
+      "saffron"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 45,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "e8b33f02-6d77-429a-bd3e-3dab063bd307"
+  },
+  {
+    "name": "Muthiya",
+    "ingredients": [
+      "Bottle gourd",
+      "whole wheat flour",
+      "rava",
+      "sesame seeds",
+      "bengal gram flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 30,
+    "flavor_profile": "bitter",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "54dc865f-f37b-481e-8b47-aaa613691a4a"
+  },
+  {
+    "name": "Patra",
+    "ingredients": [
+      "Arbi ke patte",
+      "sesame seeds",
+      "gur",
+      "bengal gram flour",
+      "imli"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "58c173df-e64d-4de5-a9fd-6413c2cf1574"
+  },
+  {
+    "name": "Pav Bhaji",
+    "ingredients": [
+      "Pav bhaji masala",
+      "gobi",
+      "potatoes",
+      "green peas",
+      "dinner rolls"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "91d24e78-ae2b-445d-841d-5b0cdf101129"
+  },
+  {
+    "name": "Puri Bhaji",
+    "ingredients": [
+      "Aloo",
+      "urad dal",
+      "mustard",
+      "ginger",
+      "curry leaves"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "2f9f3e56-a7b4-4ad6-914c-e981125d104f"
+  },
+  {
+    "name": "Sabudana Khichadi",
+    "ingredients": [
+      "Raw peanuts",
+      "sabudana",
+      "lemon",
+      "avocado oil",
+      "curry leaves",
+      "green chili"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 70,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "baa01d76-f0bc-4aa0-821e-2046bfd2efa6"
+  },
+  {
+    "name": "Sev khamani",
+    "ingredients": [
+      "Khaman",
+      "pomegranate",
+      "sev",
+      "powdered sugar",
+      "garlic"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "1bf3ed14-6f9d-4333-a620-745d9006ef3c"
+  },
+  {
+    "name": "Sev tameta",
+    "ingredients": [
+      "Sev",
+      "ginger",
+      "tomato",
+      "sugar"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "b40ede08-c56f-4ac7-a198-7448cb597539"
+  },
+  {
+    "name": "Namakpara",
+    "ingredients": [
+      "Wheat flour",
+      "baking soda",
+      "all purpose flour",
+      "black pepper",
+      "sunflower oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 35,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "9809160d-0457-4f81-9b6f-4ae0faccb3dc"
+  },
+  {
+    "name": "Sukhdi",
+    "ingredients": [
+      "Whole wheat flour",
+      "gur",
+      "clarified butter"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "09e16912-7a37-4665-b92b-27f52d109abe"
+  },
+  {
+    "name": "Surnoli",
+    "ingredients": [
+      "Rice flakes",
+      "yogurt",
+      "raw rice",
+      "jaggery",
+      "grated coconut"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 60,
+    "cook_time": 10,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "2214247e-4427-4b83-a3a0-f3462967a5d2"
+  },
+  {
+    "name": "Thalipeeth",
+    "ingredients": [
+      "Whole wheat flour",
+      "rice flour",
+      "pearl millet flour",
+      "sorghum flour",
+      "sesame seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 25,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "59cdd0b9-8baf-4b42-901a-34b046fb4f5f"
+  },
+  {
+    "name": "Undhiyu",
+    "ingredients": [
+      "Sweet potato",
+      "surti papdi",
+      "baby potatoes",
+      "valor papdi",
+      "green peas"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 25,
+    "cook_time": 60,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "ba2a0947-295d-449f-85c1-178f51294ccd"
+  },
+  {
+    "name": "Veg Kolhapuri",
+    "ingredients": [
+      "Gobi",
+      "potato",
+      "beans",
+      "khus khus",
+      "coconut"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Maharashtra",
+    "region": "West",
+    "id": "08724f60-34c0-4504-8b50-b1f13c794b6f"
+  },
+  {
+    "name": "Vindaloo",
+    "ingredients": [
+      "Chicken",
+      "coconut oil",
+      "wine vinegar",
+      "ginger",
+      "green",
+      "cinnamon"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Goa",
+    "region": "West",
+    "id": "797d5715-13b0-4e70-8c96-2452551d6845"
+  },
+  {
+    "name": "Lilva Kachori",
+    "ingredients": [
+      "Green garlic chutney",
+      "fresh green peas",
+      "ginger",
+      "lemon juice",
+      "plain flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 30,
+    "cook_time": 6,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "a82dbfca-b116-498f-89ae-41c78d6ff16f"
+  },
+  {
+    "name": "Mag Dhokli",
+    "ingredients": [
+      "Moong beans",
+      "jaggery",
+      "red chillies",
+      "oil",
+      "salt"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "1e34b706-2c2b-4eb5-8b96-1171fccd0b0f"
+  },
+  {
+    "name": "Khichu",
+    "ingredients": [
+      "Rice flour",
+      "sesame seeds",
+      "baking soda",
+      "peanut oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 10,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "c9d860f4-7c84-427a-95ef-a4c50fcbff31"
+  },
+  {
+    "name": "Thepla",
+    "ingredients": [
+      "Chickpea flour",
+      "methi leaves",
+      "jowar flour",
+      "wheat flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 30,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "b3131dcc-837f-498c-a107-5b6ced3c7d14"
+  },
+  {
+    "name": "Farsi Puri",
+    "ingredients": [
+      "Semolina",
+      "clarified butter",
+      "oil",
+      "white flour",
+      "black pepper"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "-1",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "e78733a7-dfd0-4cd9-948b-d07468d7d8a4"
+  },
+  {
+    "name": "Khaman",
+    "ingredients": [
+      "Yogurt",
+      "fresh coconut",
+      "sesame seeds",
+      "semolina",
+      "gram flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "snack",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "d5af105c-8794-4444-8e60-1f6c83ddf868"
+  },
+  {
+    "name": "Turiya Patra Vatana sabji",
+    "ingredients": [
+      "Ridge gourd",
+      "baking soda",
+      "sugar",
+      "grated coconut",
+      "peas"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 35,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Gujarat",
+    "region": "West",
+    "id": "123bcc29-e7ed-4fb4-961e-2a3572a48335"
+  },
+  {
+    "name": "Churma Ladoo",
+    "ingredients": [
+      "Whole wheat flour",
+      "khus khus",
+      "sesame seeds",
+      "dry coconut",
+      "gur"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 12,
+    "cook_time": 40,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Rajasthan",
+    "region": "West",
+    "id": "538a578d-4292-444d-8f7a-40a7c9b43868"
+  },
+  {
+    "name": "Cheera Doi",
+    "ingredients": [
+      "Rice",
+      "mango",
+      "curd"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "dd7c3c0f-07d0-4639-ac05-8dfc0fb21ac8"
+  },
+  {
+    "name": "Gheela Pitha",
+    "ingredients": [
+      "Sticky rice",
+      "rice flour",
+      "jaggery",
+      "orange rind"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Assam",
+    "region": "North East",
+    "id": "d83dc110-5fbc-4e41-8320-b5bcde409f48"
+  },
+  {
+    "name": "Khar",
+    "ingredients": [
+      "Raw papaya",
+      "panch phoran masala",
+      "nigella seeds",
+      "mustard oil",
+      "fennel seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "e32c3a3c-4305-4497-992c-02aefb7f2697"
+  },
+  {
+    "name": "Kumol Sawul",
+    "ingredients": [
+      "Rice",
+      "eggs",
+      "carrot",
+      "beetroot"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "d8673a8f-d3da-4aaa-9b88-e66829a63364"
+  },
+  {
+    "name": "Luchi",
+    "ingredients": [
+      "Maida",
+      "vegetable oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 30,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "14168f0e-f0c1-46b9-ad29-6116fd76cd23"
+  },
+  {
+    "name": "Alu Pitika",
+    "ingredients": [
+      "Potatoes",
+      "mustard oil",
+      "fish",
+      "green chillies"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 5,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "4bb1f1c4-4838-4534-a136-ea3cb25cabab"
+  },
+  {
+    "name": "Masor tenga",
+    "ingredients": [
+      "Ridge gourd",
+      "fish",
+      "lemon",
+      "tomatoes",
+      "mustard oil"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 15,
+    "cook_time": 25,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "aeef4d81-d3dd-4d99-a709-19f80fdc4152"
+  },
+  {
+    "name": "Bengena Pitika",
+    "ingredients": [
+      "Brinjal",
+      "onions",
+      "salt",
+      "sesame seeds",
+      "coriander"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "e0516977-5c0b-4dd0-8960-5b7e09654322"
+  },
+  {
+    "name": "Bilahi Maas",
+    "ingredients": [
+      "Potatoes",
+      "garam masala",
+      "tomatoes",
+      "mustard oil",
+      "bay leaf"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "b3fa7289-5a0d-49d1-a8f2-4b8434969d48"
+  },
+  {
+    "name": "Black rice",
+    "ingredients": [
+      "Forbidden black rice",
+      "chicken",
+      "olive oil",
+      "slivered almonds",
+      "garlic powder"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Manipur",
+    "region": "North East",
+    "id": "c12da490-d696-4a24-afe8-d643827af039"
+  },
+  {
+    "name": "Bora Sawul",
+    "ingredients": [
+      "Biryani masala",
+      "mixed vegetables",
+      "yellow moong daal",
+      "whole red",
+      "mustard seeds"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "4b2ad420-7326-4c7c-87df-b48f5d167189"
+  },
+  {
+    "name": "Brown Rice",
+    "ingredients": [
+      "Brown rice",
+      "soy sauce",
+      "olive oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 15,
+    "cook_time": 25,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "-1",
+    "region": "-1",
+    "id": "dd37fb30-6356-4e03-b368-fb8fc1926c0d"
+  },
+  {
+    "name": "Chingri malai curry",
+    "ingredients": [
+      "Coconut milk",
+      "lobster",
+      "fresh green chilli",
+      "ginger",
+      "red onion"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 10,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "900c6a13-c60a-42c4-8b0e-98e96512eafe"
+  },
+  {
+    "name": "Goja",
+    "ingredients": [
+      "Baking soda",
+      "clarified butter",
+      "oil",
+      "all purpose flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "5e3905a8-9862-4fa5-b0c3-2dc2d8e610e9"
+  },
+  {
+    "name": "Hando Guri",
+    "ingredients": [
+      "Jaggery",
+      "raisins"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Assam",
+    "region": "North East",
+    "id": "33dbba17-2ece-44c5-8e7a-e00a9178556f"
+  },
+  {
+    "name": "Haq Maas",
+    "ingredients": [
+      "Lamb",
+      "garam masala powder",
+      "curd",
+      "turmeric",
+      "bay leaf"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 20,
+    "cook_time": 40,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "43635de9-4028-46d8-a1a1-81b7d4c6c9ae"
+  },
+  {
+    "name": "Chingri Bhape",
+    "ingredients": [
+      "Coconut",
+      "prawns",
+      "curd",
+      "mustard seed",
+      "green chili"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 15,
+    "cook_time": 30,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "ddf9ed51-3513-44c3-a0b0-1e12396f405f"
+  },
+  {
+    "name": "Kabiraji",
+    "ingredients": [
+      "Fish fillet",
+      "besan",
+      "lemon",
+      "mint",
+      "ginger"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "fda6e80e-dbe8-4722-84e6-6ceebc025dd8"
+  },
+  {
+    "name": "Khorisa",
+    "ingredients": [
+      "Fermented bamboo shoot",
+      "potato",
+      "ginger",
+      "green",
+      "mustard oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "7375901d-7971-4504-a00c-effed4afd944"
+  },
+  {
+    "name": "Koldil Chicken",
+    "ingredients": [
+      "Banana flower",
+      "chicken",
+      "green chili",
+      "mustard oil",
+      "lemon juice"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "f5195db0-2081-4277-b65f-b02a27381548"
+  },
+  {
+    "name": "Konir Dom",
+    "ingredients": [
+      "Aloo",
+      "tomatoes",
+      "mustard oil",
+      "bay leaf",
+      "cinnamon stick"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "e7f021ae-0d49-4412-bc65-055413f079ae"
+  },
+  {
+    "name": "Koldil Duck",
+    "ingredients": [
+      "Rice flour",
+      "mutton",
+      "banana",
+      "gram flour",
+      "olive oil",
+      "baking powder"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "fe7fd90c-6c54-4f9f-b9f2-debca48242b6"
+  },
+  {
+    "name": "Masor Koni",
+    "ingredients": [
+      "Fish roe",
+      "pumpkin flowers",
+      "mustard oil",
+      "turmeric",
+      "tomato"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "4daa4d50-6222-4ff1-b21c-51ca8db88cd7"
+  },
+  {
+    "name": "Mishti Chholar Dal",
+    "ingredients": [
+      "Chana dal",
+      "fresh coconut",
+      "ginger",
+      "cinnamon",
+      "raisins"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "main course",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "5477d740-a5e4-4db7-b5c4-5b5461d1703a"
+  },
+  {
+    "name": "Pakhala",
+    "ingredients": [
+      "Curd",
+      "cooked rice",
+      "curry leaves",
+      "dry chilli"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Odisha",
+    "region": "East",
+    "id": "a426cc01-3e46-4206-9e6d-39073f48542a"
+  },
+  {
+    "name": "Pani Pitha",
+    "ingredients": [
+      "Tea leaves",
+      "white sesame seeds",
+      "dry coconut",
+      "soaked rice"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "Assam",
+    "region": "North East",
+    "id": "1b555e7e-2cc9-4a02-b941-c0a204e394f3"
+  },
+  {
+    "name": "Payokh",
+    "ingredients": [
+      "Basmati rice",
+      "rose water",
+      "sugar",
+      "clarified butter",
+      "cardamom pods"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Assam",
+    "region": "North East",
+    "id": "cbd79504-8378-4158-b0ce-f63cbbe0b788"
+  },
+  {
+    "name": "Prawn malai curry",
+    "ingredients": [
+      "Coconut milk",
+      "prawns",
+      "garlic",
+      "turmeric",
+      "sugar"
+    ],
+    "diet": "non vegetarian",
+    "prep_time": 15,
+    "cook_time": 50,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "d46ca306-fb5a-4467-95b8-bd9a8aadd291"
+  },
+  {
+    "name": "Red Rice",
+    "ingredients": [
+      "Red pepper",
+      "red onion",
+      "butter",
+      "watercress",
+      "olive oil"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "-1",
+    "course": "main course",
+    "state": "-1",
+    "region": "-1",
+    "id": "7ff7d0b5-5438-482a-9552-2cfb3e9b7707"
+  },
+  {
+    "name": "Shukto",
+    "ingredients": [
+      "Green beans",
+      "bitter gourd",
+      "ridge gourd",
+      "banana",
+      "brinjal"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "flavor_profile": "spicy",
+    "course": "main course",
+    "state": "West Bengal",
+    "region": "East",
+    "id": "4db719b5-2a4a-4084-996c-0b68b204efeb"
+  },
+  {
+    "name": "Til Pitha",
+    "ingredients": [
+      "Glutinous rice",
+      "black sesame seeds",
+      "gur"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 5,
+    "cook_time": 30,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Assam",
+    "region": "North East",
+    "id": "6582a515-f117-4eb1-b2e6-49d672d16504"
+  },
+  {
+    "name": "Bebinca",
+    "ingredients": [
+      "Coconut milk",
+      "egg yolks",
+      "clarified butter",
+      "all purpose flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 60,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Goa",
+    "region": "West",
+    "id": "4bedb9d9-6ea6-45d0-8363-c5e519db23bc"
+  },
+  {
+    "name": "Shufta",
+    "ingredients": [
+      "Cottage cheese",
+      "dry dates",
+      "dried rose petals",
+      "pistachio",
+      "badam"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Jammu & Kashmir",
+    "region": "North",
+    "id": "2ae41419-7c83-4a4f-bf42-bc7fab4a0ceb"
+  },
+  {
+    "name": "Mawa Bati",
+    "ingredients": [
+      "Milk powder",
+      "dry fruits",
+      "arrowroot powder",
+      "all purpose flour"
+    ],
+    "diet": "vegetarian",
+    "prep_time": 20,
+    "cook_time": 45,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Madhya Pradesh",
+    "region": "Central",
+    "id": "6ae12068-a245-424f-b55d-2ff43faf157e"
+  },
+  {
+    "name": "Pinaca",
+    "ingredients": [
+      "Brown rice",
+      "fennel seeds",
+      "grated coconut",
+      "black pepper",
+      "ginger powder"
+    ],
+    "diet": "vegetarian",
+    "prep_time": -1,
+    "cook_time": -1,
+    "flavor_profile": "sweet",
+    "course": "dessert",
+    "state": "Goa",
+    "region": "West",
+    "id": "cbbe5017-5021-4a9e-b145-5ba8ba5a0ae5"
+  }
+]
